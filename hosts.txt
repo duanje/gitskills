@@ -1,0 +1,10 @@
+# github
+192.30.253.112  github.com
+151.101.24.133  documentcloud.github.com
+192.30.253.119  gist.github.com
+151.101.100.133  help.github.com
+192.30.253.121  nodeload.github.com
+151.101.100.133  raw.github.com
+54.243.67.119  status.github.com
+151.101.100.133  training.github.com
+151.101.16.249  github.global.ssl.fastly.net
